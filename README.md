@@ -13,3 +13,5 @@ The software system will be a simple calendar system for personal use.  The syst
 - Edit an event on the calendar.
 - View an event.
 - View a monthly-based event list.
+
+Languages/Tools used: C#, ASP.NET, Visual Studio, MariaDB(SQL)
