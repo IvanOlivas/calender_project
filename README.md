@@ -7,7 +7,6 @@ A client from company needs a simple personal calendar system for his employees 
 System Proposal
 A software system to help the company with the desired functionality of the system.
 The software system will be a simple calendar system for personal use.  The system shall provide the following services to a user:
-
 - Sign in & sign out of the system
 - Add an event to the calendar, including conflict check of two events.
 - Delete an event from the calendar.
